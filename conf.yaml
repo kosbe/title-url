@@ -1,0 +1,17 @@
+# Place keys in an alphabetical order.
+{
+# Terminate scraping console  keyword.
+"QuitKw": "q",
+
+# Output file path.
+"TitleUrlHtml": "out.html",
+
+# Log file path.
+"TitleUrlLog": "log.txt",
+
+# Dict (url: title) file path.
+"UrlTitleJson": "dict.json",
+
+# Input file path.
+"UrlTxt": "in.txt"
+}
